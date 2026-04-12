@@ -1,0 +1,45 @@
+package study;
+
+public class array {
+	public static void main(String[] args) {
+		int [] arraybox = new int[9];
+		String [] arrayBox2 = new String[2];
+		System.out.println(arrayBox2[0]);
+		System.out.print(arrayBox2[1]);
+		//9개의 공간을 가진 arraybox의 3번 자리를 출력.
+		int [] arrayBox = new int [9];
+		arrayBox[0] = 1;
+		arrayBox[1] = 2;
+		arrayBox[2] = 3;
+		arrayBox[3] = 4;
+		arrayBox[4] = 5;
+		arrayBox[5] = 6;
+		arrayBox[6] = 7;
+		arrayBox[7] = 8;
+		arrayBox[8] = 9;
+		
+		int [] arrayBoxEasy = {1,2,3,4,5,6,7,8,9};
+		//System.out.println(arrayBoxEasy);
+		//[I@4e50df2e => 이거는 배열의 값자체(숫자,문자,불리언) 이런것들은
+		//JVM 힙 영역에 저장한다. 
+		
+		for(int i = 0; i<arrayBoxEasy.length;i++) {
+			//0~8 값이 i에 담기고,
+		}
+	}
+}
+
+//배열은 한번 생성하면 크기는 이후에는 절대 변경할 수 없습니다.
+//int[] arraybox = new int[9]; 데이터문자등에 예외 인정.
+//인덱스 : 배열의 각 상자안의 데이터(숫자,문자, 온라인)들ㅇ이 인덱스로 접근.
+//글자부터 시작하여 숫자로 이동한다.
+//배열 = 객체. 속성 -> 변수 -> 필드. 
+//기능 -> 메서드 X, object class.
+//형태 : int [] arraybox ={0,1,2,3,4,5,6,7,8,9}
+
+
+//------------- 객체와 배열의 연관성-------------------//
+//객체 안에는 CREATE, READ, UPDATE, DELETE(생성, 참조, 수정, 삭제) 등의 기능이 다 포함되어 있다.
+//CRUD가 통하는 논리적인 기능. 객체가 CRUD 같은 논리적 기능을 가지고 있다.
+//생성과 읽기. 배열 - 인덱스 하는 느낌, 객체 = 참조하는 느낌.
+//객체 : key(키)라는 데이터로 접근합니다.

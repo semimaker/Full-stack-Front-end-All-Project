@@ -1,0 +1,39 @@
+//package study;
+//
+//public class MyClass {
+//	//자바클래스에는 변수(속성)와 메소드(기능)가 있다.
+//	
+//	static int a = 1;//전역
+//	static int b = 2;
+//	
+//	void methodOne() {
+//		int c = 2; // 지역변수.
+//		System.err.println(this.a);
+//		System.err.println(this.b);
+//		System.err.println(c);
+//	}
+//	
+//	public static void main(String[] args) {
+//		MyClass myclass = new MyClass();
+//		System.out.println(MyClass.a);
+//		System.out.println();
+//	}
+//
+//}
+
+//클래스,객체,static : 일종의 설계도.
+//class Car{ -> 기능.
+// string color; 
+// int speed; 
+//void accelerate(){
+//}-> 속성
+//기능과 속성을 설정.
+
+//Car myCar = new Car();
+// 클래스별칭 = new 클래스 이름();
+// 공간이 생겼으며, java 코드에 공간이 생긴 것으로 힙 생성자
+// 데이터가 저장이되었고, 스택 발생에 의한 객체 저장이 생겼다.
+
+//접근 방식 : 전역변수 -> 지역변수 -> 블록변수(JVM 메모리에 객체 생성.)
+
+//static int globalhelloNumber = {0} -> 객체를 생성하지 않고 곧바로 클래스 밴드로 접근이 가능!, JVM 스택영역. -> 에세드영역.

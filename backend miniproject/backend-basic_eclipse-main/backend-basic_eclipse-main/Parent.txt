@@ -1,0 +1,12 @@
+package study;//Child.java 연결.
+
+public class Parent {
+	
+	int 재산;
+	
+	public Parent(int 재산) {
+		this.재산 = 재산;
+	}
+	
+	
+}

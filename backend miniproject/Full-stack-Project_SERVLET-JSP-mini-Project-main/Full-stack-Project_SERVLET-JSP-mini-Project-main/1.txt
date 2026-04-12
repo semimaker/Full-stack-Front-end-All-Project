@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<h1>JSP프로젝트</h1>
+	
+	<%
+		String name = "black";
+		int age = 30;
+	%>
+	
+	<p> 이름 <%=name %> </p>
+	<p> 나이 <%=age %> </p>
+
+</body>
+</html>

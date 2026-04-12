@@ -1,0 +1,25 @@
+package study;
+
+public class Variable {
+
+	public static void main(String[] args) {
+		//프로그램의 시작점.
+		int a = 1;
+		float b= 1.1F;
+		double c = 2.22D;
+		char d = '오';
+		boolean e = true;
+		boolean f = false;
+
+		System.out.println(a); //콘솔에 글을 출력.
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+		System.out.println(e);
+		System.out.println(f);
+	}
+}
+
+//src 파일을 마우스 우클릭하여 class 추가하면 새로운 창이 뜬다.
+//개발용도 어떤 클래스가 어떤 상황에 어떤코드로 어떻게 작성되는지도
+//패턴 원리 이해 및 암기에 중요.

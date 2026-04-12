@@ -1,0 +1,11 @@
+package study;//Parent.java. 연계.
+
+public class Child extends Parent {
+	
+	public Child(int 재산) {
+		super(재산);
+	}
+	void hello() {
+		System.out.println("안녕하세요.");
+	}
+}

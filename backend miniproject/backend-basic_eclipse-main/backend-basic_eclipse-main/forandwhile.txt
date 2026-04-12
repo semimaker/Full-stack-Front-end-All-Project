@@ -1,0 +1,47 @@
+package study;
+
+import java.util.Scanner;
+
+public class forandwhile {
+
+	public static void main(String[] args) {
+//		//main(시작점), for(초기식, 조건식, 증감식){}
+//		for(int i = 0; i < 10; i++) {
+//			System.out.println("안녕");
+//			System.out.println("숫자: "+i);
+//		}
+//	}
+//	//초기식 : while(조건식){반복할 코드;증감식} => 결말이 정해진경우.
+//	//while(조건식) => 결말이 정해지지 않은 경우.
+//	
+//	Scanner scanner = new Scanner(System.in);
+//	//console에 글을 타이핑 하여 입력하기 위해서는 위코드와 같이 작성.
+//	String input = scanner.next();
+//	while(input.equals("안녕")) {
+//		System.out.println("안녕3");//안녕 console에 입력시 안녕3 출력.
+//		break;
+//	}
+	//기본 자료형(숫자,문자,불리언)끼리 비교할 떄 equals()
+	//참조 자료형(객체,사용자정의클래스)끼리 비교시 ==
+	//do-while문은 초시 한번은 반드시 실행되어야 할 떄 이용.
+	//do블록->do{}을 먼저 실행한 후 조건을 검사.
+		
+		
+	Scanner scanner2 = new Scanner(System.in);
+	int number;
+	
+	do {
+		System.out.println("1부터 5 사이의 숫자를 입력!부탁!: ");
+		number = scanner2.nextInt();
+	}while(number < 1 || number > 5);
+	System.out.println("올바른 숫자 입력했음: " +number);
+		
+	}
+	
+}
+
+
+//반복문.코드를 반복하는 그런 구조. 특정 작업을 여러번 반복할 떄 사용하는 구조.
+//for(결말이 정해진 것/조건에 결말이 있듯이), while(초기식/조건식/증강식), 
+//형태 while{코드}a++;
+//do - while : 이 반복문을 최소 한번씩 수정해야 한다.

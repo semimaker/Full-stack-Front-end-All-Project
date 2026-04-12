@@ -1,0 +1,39 @@
+package study;
+
+public class if_switch {
+
+	public static void main(String[] args) {
+		String today = "월요일";
+		if(today == "월요일") {
+			System.out.println("오늘은 월요일입니다.");
+		}else if(today == "화요일") {
+			System.out.println("오늘은 월요일입니다.");
+		}else {
+			System.out.println("오늘은 월요일과 화요일이 아닙니다.");
+		}
+		
+		String book = "비트코인";
+		
+		switch(book){
+		case "주식" : 
+			System.out.println("이 책은 주식책입니다.");
+			break;
+		case "비트코인" : 
+			System.out.println("이 책은 비트코인책입니다.");
+			break;
+		case "정치" : 
+			System.out.println("이 책은 정치책입니다.");
+			break;	
+		default:
+			System.out.println("어떤 책도 포함이 되지가 않는다.");
+		}
+	}
+}
+
+
+//if, switch => 만약 이럴 떄 이렇게 하시오라는 조건문.
+//if : "만약에 이 조건이 맞다면" 이라는 뜻. T(안의 내용 활성화), F라면 그 안 내용 실행하지 않는다.
+//switch :  오늘이 월요일이라면 회사를 가자고 한다면
+//if(조건문){print("");}else {print("")} 조건문 True -> 안의 구문 실행. 
+//switch : 여러 선택지 중 하나 고르기 -> 도서 책관에서 책 한 권을 고르는데 쓰는 경우와 비슷.
+//

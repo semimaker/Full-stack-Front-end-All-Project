@@ -1,0 +1,30 @@
+package study;
+//New project 설정 후 마우스 우클릭으로 패키지(이름 기입) 및 class(이름 기입)을 넣어줘야 한다.
+ 
+public class Test {
+	
+	public static String name = "블랙";
+	public static void main(String[] args) {
+		
+		System.out.println("이름은 무엇인가요?");
+		System.out.println("제 이름은 "+name+"입니다.");
+	}
+}
+
+
+
+
+//-------------------------------이론 선-------------------------------//
+//JAVA 구조, 첫번쨰 프로그램.
+// 클래스 : 자바의 기능들의 집합. 변수와 기능들을 묶어줌.모든 자바 코드들은 class 안에서 기입. 
+// package -> import -> class 순으로 코드가 입력.
+//public static void main(String[] args)
+//--> 프로그램 시작점. 메소드 기능을 설정하며 해당 파일의 프로그램이 시작될 떄 항상 자동으로 실행.
+//모든 언어는 class안에서 움직인다.
+//클래스에는 변수 선언 및 초기화가 들어가고, 그리고 메소드의 기능 및 실행이 전부 들어갈 수 있다.
+//예를 들면, public static String name = "블랙"; 해야 전역함수로서 name 기능. 
+
+//<자바 데이터 타입과 변수>
+//변수 : 값을 담는 공간을 가진 상자, 숫자/문자/불리언(T/F).
+//테이터명 변수 : 선언. 자바는 데이터 타입을 미리 선언해줍니다.
+//기본데이터 타입 - 숫자(int, float, double), 문자(char), 불리언(boolean)

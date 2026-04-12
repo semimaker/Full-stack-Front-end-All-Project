@@ -1,0 +1,19 @@
+package study;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Child child = new Child(100000);
+		child.hello();
+		System.out.println(child.재산);
+	}
+	
+}//Person 함수에 대한 main.
+
+//<접근제어자 그리고 캡슐화>.
+//class A{private study name;} 
+//public -> 모든 클래스에서 장려하는 프로젝트, 래버지 단위로 접근가능.
+//protected -> 같은 패키지 내에서 접근가능. 상속받은 클래스에서도 사용가능.
+//default -> 같은 패키지에서만 메세지 접근이 가능하다. private.
+//private -> 해당 클래스에서만 사용.
