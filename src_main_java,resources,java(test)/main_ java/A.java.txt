@@ -1,0 +1,29 @@
+package kr.com.greencoding.controller;
+
+import org.springframework.stereotype.Component;
+
+@Component
+
+public class A {
+
+	private int age = 32;
+	private String name = "Black";
+	
+	//마우스 우클릭 -> Source -> generate getter and setter.
+	public int getAge() {
+		return age;
+	}
+	public void setAge(int age) {
+		this.age = age;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+}
+//역전제어 : 자바객체를 스프링 컨테이너에 등록함과 동시에 스프링 컨테이너에서 
+//        저장된 자바 빈객체를 관리하기 위한 과정(Inversion of Control)
+

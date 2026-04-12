@@ -32,7 +32,7 @@ spring.mvc.view.prefix=/WEB-INF/views
 
 spring.mvc.view.suffix=.jsp
 
-##파일우치가 /WEB-INF/views/index.jsp => "/index"
+##파일위치가 /WEB-INF/views/index.jsp => "/index"
 
 
 

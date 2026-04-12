@@ -1,0 +1,13 @@
+package kr.com.greencoding;
+
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SpringProjectApplicationTests {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SpringProjectApplication.class, args);
+	}
+}

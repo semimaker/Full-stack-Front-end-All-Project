@@ -1,0 +1,16 @@
+package kr.com.greencoding.controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+
+public class B {
+	
+	@Autowired
+	private A a = new A();
+	
+	int ageB = a.getAge();//black
+	String nameB = a.getName();//32
+	
+	
+	
+}//spring container => 자동화된 거대한 공장 바구니.

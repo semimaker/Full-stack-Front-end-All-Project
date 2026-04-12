@@ -1,0 +1,15 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/springboot_project?useSSL=false&serverTimezome=Asia/Seoul&allowPublicKeyRetrieval=true
+#기본 주소, 스키마명, 스키마테이블명, 2차 인증, 2차 인증 로그인 번호등 기입.
+
+spring.datasource-driver-class-name=com.mysql.cj.jdbc.Driver
+#백엔드(springboot)와 DB(mysql)를 서로 연결하여,localhost:3306 주소 위치를 가진 공간.
+#백엔드 영역에 존재하는 스프링부트 프로젝트가 이제 DB영역의 mysql언어를 이용해 개발할 것이라고 통보받음.
+
+spring.datasource.username=root
+spring.datasource.password= dlwoals@0223
+
+spring.mvc.view.prefix=/WEB-INF/views/
+spring.mvc.view.suffix=.jsp
+
+spring.security.user.name=1
+spring.security.user.password=1
