@@ -4,8 +4,9 @@
 현재 프론트엔드 및 스프링부트의 환경설정 단계를 완료하였으며, Refactoring을 통하여 꾸준한 Upgrade 예정입니다. 감사합니다!
 </div>
 
-
+<div align = "center">
 Full stack Project with Infrean
+</div>
 -------------------------------
 # 개발 과정 
 |개발 기간|개발 주제|기관|
