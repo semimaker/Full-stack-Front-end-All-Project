@@ -1,9 +1,12 @@
 Full stack Project with INfrean
 =================================
-## 개발 리스트
+개발 내용
+-----------
 |개발 기간|개발 주제|기관|
 |--------|--------|-----|
 |2025.10 ~2025.12|FrontEnd Project 1,2|인프런|
 |2026.04.03|SERVLET JSP Project|인프런|
 |2026.04.12|Backend basic Theory with eclipse|인프런|
-# 추후 확인 필요.
+
+Platforms & Languages : java, html5, css3, javascript, jquery, spring, aws
+Tools : Eclipse IDE, Visual Studio Code, Tomcat, Github
