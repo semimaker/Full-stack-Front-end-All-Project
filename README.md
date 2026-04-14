@@ -22,10 +22,10 @@ Full stack Project with Infrean
 - Refactoring을 통한 기존 코드 개선 및 성능 향상
 
    
-<div align = "center">
+
 
 # Stack
---------   
+
 ## Enviornment 
   <div style> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> 
