@@ -45,4 +45,9 @@ Stack
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />   
 </div>
 
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />  
+**WEB TECH**
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS3&logoColor=white" />
+
+**DATABASE**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
