@@ -1,12 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JAVASCRIPT&fontSize=90" />
 
 <div align ="left">
-전기 관련 SW에 취직하고자 코딩을 조금씩 공부하는 도중 개발 역량을 확보하고자 인프런에서 주관하는 1인 풀스택 프로젝트를 제작했습니다.
-현재 프론트엔드 및 스프링부트의 환경설정 단계를 완료하였으며, Refactoring을 통하여 꾸준한 Upgrade 예정입니다. 감사합니다!
+전기 분야와 연계된 SW 직무에 종사하고자, 웹 개발 역량 강화를 위한 1인 풀스택 프로젝트를 제작했습니다.
+인프런 강의를 통하여 프론트엔드 및 SpringBoot의 개발환경의 Flow을 구축하였고,
+이에 멈추지 않고 현재 refactoring을 통하여 꾸준한 개선 및 유지보수를 진행중입니다.
+향후 기능을 폭넓게 확장하여 제작하도록 하겠습니다. 감사합니다!
 </div>
 <div align = "center">
 
-# Full stack Project with Infrean
+# Full stack Web Application(사용자 관리 시스템) 
 </div>
 
 **참고**
@@ -16,19 +18,32 @@
 * <<이거 하나로 종결 - 32시간 고품질 스프링 풀스택 웹 개발>>
 
 # 개발 과정 
-|개발 기간|개발 주제|기관|
+|개발 기간|개발 주제|내용|
 |--------|--------|-----|
-|2025.10 ~ 2025.12|FrontEnd Project 1,2|인프런|
-|2026.01 ~2026.03|정보처리기사 공부| 기본적인 Coding 형식 파악|
-|2026.04.03|SERVLET JSP Project|인프런|
-|2026.04.12|Backend basic Theory with eclipse|인프런|
+|2025.10 ~ 2025.12|프론트엔드 프로젝트 2종 제작|HTML/CSS/JS 기반 UI 구현 및 이벤트 처리|
+|2026.01 ~2026.03|정보처리기사 실기 준비|알고리즘 및 DB/네트워크 기초 이해|
+|2026.04.03 | JSP/Servlet 기반 웹 프로젝트 | MVC 구조 이해 및 요청/응답 흐름 구현
+|2026.04 ~ 진행중|Spring Boot 환경 구축 및 리팩토링|코드 구조 개선 및 백엔드 확장 기반 마련|
 
 # 세부 계획
-- 간단한 프론트엔드 프로젝트 진행.
-- 기본 이론 숙지
+- 간단한 CRUD 기반 프론트엔드 프로젝트 진행.
+- 웹 개발 기초 이론(HTTP,MVC 패턴 등) 실습.
 - 프론트엔드 프로젝트 복습 및 스프링워크 개발 환경 구축 과정 진행.
-- Refactoring을 통한 기존 코드 개선 및 성능 향상
-  
+- 기존 프로젝트 Refactoring을 통한 코드 구조 개선 및 성능 향상
+- 성능 개선 및 유지보수 경험 축적.
+
+# 기능 
+**Frontend**
+1. HTTP/CSS/JAVASCRIPT를 활용한 UI 화면 구현
+2. 로그인 화면 및 사용자 입력 Form 구성.
+3. 키워드 입력 및 버튼 이벤트 처리
+
+**Backend**
+1. Springboot/Java Script tool을 활용한 기본 환경 설정
+2. JSP/Servelt 기반 MVC 패턴 적용.
+3. 사용자 요청(URL)에 따른 라우팅 처리
+4. 로그인 기능 구현(요청 처리 및 응답 흐름 구성)
+   
 Stack
 -------
 **Enviornment** 
