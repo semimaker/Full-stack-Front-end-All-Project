@@ -24,7 +24,6 @@ Full stack Project with Infrean
    
 <div align = "center">
 
-Teck Stack
 ----------
   Platforms&Languages  
   <div style> 
