@@ -46,8 +46,12 @@ Stack
 </div>
 
 **WEB TECH**
+<div>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS-663399?style=flat&logo=CSS3&logoColor=white" />
+</div>
 
 **DATABASE**
+<div>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</div>
