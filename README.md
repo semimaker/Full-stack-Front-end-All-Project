@@ -38,6 +38,10 @@ Stack
 <img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=GIT&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=GITHUB&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=Eclipse_IDE&logoColor=white" />
-   
+<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=Eclipse_IDE&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=MYSQL&logoColor=white" />   
 </div>
 
+<div>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=JAVASCRIPT&logoColor=white" />  
+</div>
