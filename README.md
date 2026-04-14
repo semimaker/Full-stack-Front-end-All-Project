@@ -23,7 +23,7 @@ Full stack Project with INfrean
 
 <div>
 	<img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=Eclipse_IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Visual Studio Code&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual_Studio_Code-2F61B4?style=flat&logo=Visual_Studio_Code&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
