@@ -8,5 +8,6 @@ Full stack Project with INfrean
 |2026.04.03|SERVLET JSP Project|인프런|
 |2026.04.12|Backend basic Theory with eclipse|인프런|
 
+file:///C:/Users/user/Downloads/javascript.svg
 Platforms & Languages : java, html5, css3, javascript, jquery, spring, aws
 Tools : Eclipse IDE, Visual Studio Code, Tomcat, Github
