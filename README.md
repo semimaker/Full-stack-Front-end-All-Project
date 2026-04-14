@@ -1,5 +1,4 @@
-라벨-메시지-컬러?style=스타일&logo=로고&logoColor=컬러
-
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 
 
 <div align ="left">
