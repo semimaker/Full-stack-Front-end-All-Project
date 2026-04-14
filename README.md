@@ -9,14 +9,15 @@ Full stack Project with INfrean
 |2026.04.12|Backend basic Theory with eclipse|인프런|
 
 <div align ="center">
-	Platforms
+	Platforms&Languages
 </div>
+
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
-Platforms & Languages : java, html5, css3, javascript, jquery, spring, aws
+
 Tools : Eclipse IDE, Visual Studio Code, Tomcat, Github
 
 
