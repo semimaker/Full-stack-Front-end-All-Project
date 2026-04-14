@@ -1,5 +1,4 @@
-Full stack Project with INfrean
-=================================
+
 
 <div align ="center">
 전기공학과를 재학한 이후, 전기 관련 SW에 관심이 있어서 취미로 공부를 하다가 이번에 개발 역량을 확보하고자 인프런에서 주관하는 풀스택 프로젝트에 참여했습니다.
@@ -7,8 +6,8 @@ Full stack Project with INfrean
 </div>
 
 
-개발 내용
------------
+Full stack Project with INfrean
+-------------------------------
 |개발 기간|개발 주제|기관|
 |--------|--------|-----|
 |2025.10 ~2025.12|FrontEnd Project 1,2|인프런|
