@@ -7,12 +7,16 @@
 
 Full stack Project with Infrean
 -------------------------------
+1. 개발 내용.
 |개발 기간|개발 주제|기관|
 |--------|--------|-----|
-|2025.10 ~2025.12|FrontEnd Project 1,2|인프런|
+|2025.10 ~ 2025.12|FrontEnd Project 1,2|인프런|
+|2026.01 ~2026.03 |정보처리기사(준비)| 기본적인 CS 및 이론 습득.
 |2026.04.03|SERVLET JSP Project|인프런|
 |2026.04.12|Backend basic Theory with eclipse|인프런|
 
+2. 개발 과정
+   
 <div align = "center">
 
 Teck Stack
