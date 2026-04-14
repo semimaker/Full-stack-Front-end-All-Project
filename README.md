@@ -15,7 +15,7 @@ Full stack Project with Infrean
 |2026.04.03|SERVLET JSP Project|인프런|
 |2026.04.12|Backend basic Theory with eclipse|인프런|
 
-# 세부 계획.
+# 세부 계획
 - 간단한 프론트엔드 프로젝트 진행.
 - 기본 이론 숙지 (정보처리기사 및 <<JSP&Servlet 웹 프로그래밍 입문 + 활용>> 교재 참고)
 - 프론트엔드 프로젝트 복습 및 스프링워크 개발 환경 구축 과정 진행.
