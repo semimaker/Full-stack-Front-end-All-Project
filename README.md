@@ -9,6 +9,7 @@ Full stack Project with INfrean
 |2026.04.12|Backend basic Theory with eclipse|인프런|
 
 <div align ="center">
+	
 	Platforms&Languages
 
 <div>
@@ -18,7 +19,7 @@ Full stack Project with INfrean
 </div>
 
 <div>
-	TOols
+	Tools
 </div> 
 
 <div>
