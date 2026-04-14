@@ -7,7 +7,6 @@
 
 # Full stack Project with Infrean
 </div>
-----------------------------------
 
 **참고**
 * <<정보처리기사 실기 FINAL 실전 모의고사>>
