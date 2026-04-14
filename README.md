@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JAVASCRIPT&fontSize=90" />
 
 <div align ="left">
 전기 관련 SW에 취직하고자 코딩을 조금씩 공부하는 도중 개발 역량을 확보하고자 인프런에서 주관하는 1인 풀스택 프로젝트를 제작했습니다.
