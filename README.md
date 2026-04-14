@@ -6,7 +6,7 @@
 </div>
 
 
-Full stack Project with INfrean
+Full stack Project with Infrean
 -------------------------------
 |개발 기간|개발 주제|기관|
 |--------|--------|-----|
@@ -14,6 +14,8 @@ Full stack Project with INfrean
 |2026.04.03|SERVLET JSP Project|인프런|
 |2026.04.12|Backend basic Theory with eclipse|인프런|
 
+Teck Stack
+--------------------------------
 <div align ="center">
   Platforms&Languages  
   <div style> 
