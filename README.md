@@ -13,9 +13,9 @@ Full stack Project with Infrean
 |2026.04.03|SERVLET JSP Project|인프런|
 |2026.04.12|Backend basic Theory with eclipse|인프런|
 
+<div align = "center">
 Teck Stack
---------------------------------
-<div align ="center">
+----------
   Platforms&Languages  
   <div style> 
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> 
