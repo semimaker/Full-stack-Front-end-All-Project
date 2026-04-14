@@ -29,17 +29,11 @@ Refactoring을 통하여 꾸준한 Upgrade 예정입니다. 감사합니다!
 
 
 # Stack
-Enviornment 
-  <div style> 
-    <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
-  </div> 
-  <div> 
-    Tools 
-  </div> 
-  <div> 
-    <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=Eclipse_IDE&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-2F61B4?style=flat&logo=Visual_Studio_Code&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" /> 
-  </div>
+## Enviornment 
+<div>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-2F61B4?style=flat&logo=Visual_Studio_Code&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-2F61B4?style=flat&logo=GIT&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-2F61B4?style=flat&logo=GITHUB&logoColor=white" />
+   
+</div>
+
