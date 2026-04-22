@@ -29,6 +29,7 @@
 |-------------|
 |(2026.04.22)계산기 웹 페이지 구현 기능 : 1. 웹페이지 UI  2. 로그인 기능 구현|
 <!--  upload "Caculator result.gif" -->
+<img width="1280" height="798" alt="Image" src="https://github.com/user-attachments/assets/bb413ff5-8dcd-4e93-9806-142f41e5b81f" />
  
 # 세부 계획
 - 간단한 CRUD 기반 프론트엔드 프로젝트 진행.
