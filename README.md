@@ -26,8 +26,8 @@
 |2026.04 ~|Spring Boot 환경 구축 및 리팩토링|코드 구조 개선 및 백엔드 확장 기반 마련|
 
 # REFACTORING PROJECT
-|-------------|
 |(2026.04.22)계산기 웹 페이지 구현 기능 : 1. 웹페이지 UI  2. 로그인 기능 구현|
+|-------------|
 ### 로그인 & 계산기
 <img width="2559" height="1521" alt="Image" src="https://github.com/user-attachments/assets/4caf68f9-d0f4-4f96-807e-3f5caff01158" />
 <img width="1280" height="798" alt="Image" src="https://github.com/user-attachments/assets/bb413ff5-8dcd-4e93-9806-142f41e5b81f" />
