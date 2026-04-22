@@ -28,8 +28,7 @@
 |REFACTORING PROJECT|
 |-------------|
 |(2026.04.22)계산기 웹 페이지 구현 기능 : 1. 웹페이지 UI  2. 로그인 기능 구현|
-
-
+<!--  upload "Caculator result.gif" -->
  
 # 세부 계획
 - 간단한 CRUD 기반 프론트엔드 프로젝트 진행.
