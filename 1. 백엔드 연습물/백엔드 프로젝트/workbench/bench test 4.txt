@@ -1,0 +1,27 @@
+UPDATE menu SET content = "블랙짱" WHERE idx = 2; # 데이터 수정
+DELETE FROM menu WHERE content = "블랙짱"; #데이터 삭제, 조건에 해당하는 것들만 삭제.
+
+INSERT INTO menu(content, writer) VALUES("a1", "a2");
+INSERT INTO menu(content, writer) VALUES("b1", "b2");
+INSERT INTO menu(content, writer) VALUES("c1", "c2");
+INSERT INTO menu(content, writer) VALUES("d1", "d2");
+
+SELECT * FROM menu WHERE idx >= 6; # =(같은 자바라는 의미), >/>=/</<=(크기 비교), LIKE "_c%"
+SELECT * FROM menu WHERE content LIKE "__1%";
+
+CREATE TABLE user(
+	idx INT NOT NULL AUTO_INCREMENT,
+    username VARCHAR(255) NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    PRIMARY KEY(idx)
+);
+
+INSERT INTO user(idx, username, password) VALUES(null, "black1", "canes");
+INSERT INTO user(idx, username, password) VALUES(null, "black2", "canes2");
+INSERT INTO user(idx, username, password) VALUES(null, "black3", "canes3");
+INSERT INTO user(idx, username, password) VALUES(null, "black4", "canes4");
+
+SELECT A.idx, A.writer FROM menu A INNER JOIN user B ON A.idx;
+SELECT A.idx, A.content, A.writer FROM menu A LEFT JOIN user B ON A.idx = B.idx;
+SELECT B.username, B.password FROM menu A RIGHT JOIN user B ON A.idx = B.idx;
+SELECT A.idx, A.content, A.writer FROM menu A CROSS JOIN user B;
