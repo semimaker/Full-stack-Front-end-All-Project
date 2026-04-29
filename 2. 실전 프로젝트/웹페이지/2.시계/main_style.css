@@ -1,0 +1,65 @@
+/*0.본체.*/
+body {
+    padding: 100px;
+    /*100픽셀 만큼 띄웠다.*/
+}
+
+/*1. 검색 창*/
+#loginform {
+    text-align: center;
+    /*검색 창중간 정렬.*/
+}
+
+/*input이 여러개일 경우 조정*/
+#loginform input:nth-child(1) {
+    text-align: center;
+    color: white;
+    /*창 안에 입력되는 글자 색깔.*/
+    font-size: 1.3rem;
+    /*폰트 크기(1.3배)*/
+    width: 240px;
+    background-color: rgba(255, 255, 255, 0.2);
+    /*red,green,blue등 색깔. 상단(투명 없이), 하단(완전히 투명하게.)*/
+}
+
+/*검색창에 커서를 갖다댈 때 나오는 표시*/
+#loginform input:nth-child(1):hover {
+    background-color: rgba(255, 255, 255, 0.4);
+    /*더 밝게*/
+}
+
+/*검색창에 커서를 갖다댈 때 나오는 표시*/
+#loginform input:nth-child(1):focus {
+    outline: none;
+    /*외곽 없음*/
+    border-bottom: 3px solid white;
+    background-color: rgba(255, 255, 255, 0);
+
+}
+
+/*압력 후 나오는 단어의 조정*/
+#greeting {
+    text-align: center;
+    position: relative;
+    /*검색 창중간 정렬.*/
+    z-index: 10;
+    color: white;
+    /*텍스트가 이미지 앞으로 나오게 하기 위함.*/
+}
+
+/*임의로 들어간 이미지의 정렬 및 조정.*/
+#backgroundImage {
+    height: 100%;
+    width: 100%;
+    pointer-events: none;
+    /*포인터의 작업 방해를 방지.*/
+    position: fixed;
+    top: 0;
+    /*이미지 상단의 여백이 없도록*/
+    left: 0;
+    /*이미지의 좌측이 딱 붙게.*/
+    z-index: -1;
+    /*-1 칸 뒤로 보내주겠다.*/
+    filter: brightness(70%)
+        /*배경화면 이미지를 70%정도로.*/
+}

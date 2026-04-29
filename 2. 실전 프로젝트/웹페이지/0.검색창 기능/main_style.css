@@ -1,0 +1,24 @@
+/*0.본체.*/
+body {
+    padding: 100px;
+    /*100픽셀 만큼 띄웠다.*/
+}
+
+/*1. 검색 창*/
+#loginform {
+    text-align: center;
+    /*검색 창중간 정렬.*/
+}
+
+/*input이 여러개일 경우 조정*/
+#loginform input:nth-child(1) {
+    text-align: center;
+    font-size: 1.3rem;
+    /*폰트 크기(1.3배)*/
+}
+
+/*압력 후 나오는 단어의 조정*/
+#greeting {
+    text-align: center;
+    /*검색 창중간 정렬.*/
+}

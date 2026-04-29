@@ -1,0 +1,28 @@
+<!-- (필수)파일 자체의 이름 및 폴더의 기본 경로.-->
+<!DOCTYPE html>
+<html lang="ko">
+<!--로그인 창 및 버튼-->
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SW비전공자 국진맨_웹페이지</title>
+    <link rel="stylesheet" href="main_style.css">
+</head>
+
+<!--검색 창 구현-->
+
+<body>
+    <form id="loginform">
+        <input required type="text" placeholder="what is your name?" />
+        <button type="submit">Login</button>
+    </form><!--input, button을 다 묶어서 처리.input과 button을 보호해주는 역할.-->
+
+    <h1 id="greeting"></h1>
+    <h2 id="clock">00:00:00</h2><!--시계 기본 키워드-->
+    <script src="login.js"></script>
+    <script src="background.js"></script><!--파일을 가져와서 사용하게 함.-->
+    <script src="clock.js"></script>
+</body>
+
+</html>

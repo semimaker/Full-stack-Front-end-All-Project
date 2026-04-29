@@ -1,0 +1,8 @@
+ #head1{
+    text-align: center; /*텍스트의 위치 정렬.*/
+    font-size:3rem; /*글자 크기 결정.*/
+    margin-top: 10%; /*위 아래 간격 결정.*/
+    background-color: yellow;
+    text-decoration: black; 
+    border-radius : 40%; /*모서리 양 끝 부분을 더 or 덜 둥글게 표현*/
+}
