@@ -8,7 +8,7 @@
 </div>
 <div align = "center">
 
-# Full stack Web Application(사용자 관리 시스템) 
+# Full stack Web Application(Front-end 사용자 관리 시스템) 
 </div>
 
 **참고**
