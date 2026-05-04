@@ -28,11 +28,15 @@
 # REFACTORING PROJECT
 |(2026.04.22)계산기 웹 페이지 구현 기능 : 1. 웹페이지 UI  2. 로그인 기능 구현|
 |-------------|
+
+|(2026.04.29)계산기 웹 페이지 구현 기능 : 1. 웹페이지 검색창/시계/달력 UI  2. 로그인 기능 구현 |
+|-------------|
+
 ### 로그인 & 계산기
 <img width="2559" height="1521" alt="Image" src="https://github.com/user-attachments/assets/4caf68f9-d0f4-4f96-807e-3f5caff01158" />
 <img width="1280" height="798" alt="Image" src="https://github.com/user-attachments/assets/bb413ff5-8dcd-4e93-9806-142f41e5b81f" />
-|(2026.04.29)계산기 웹 페이지 구현 기능 : 1. 웹페이지 검색창/시계/달력 UI  2. 로그인 기능 구현 |
-|-------------|
+
+### 웹페이지 화면
 <img width="2560" height="1528" alt="스크린샷 2026-05-04 173110" src="https://github.com/user-attachments/assets/e2d43ece-0f4b-4e9c-8202-6a1f5f3625b6" />
 
 # 세부 계획
